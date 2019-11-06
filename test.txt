@@ -1,3 +1,5 @@
 This is a text file for testing the upload of the repository to github.
 
 This is a change of the file for the second commit.
+
+GitHub is stupid
