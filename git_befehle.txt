@@ -1,0 +1,26 @@
+
+Git Befehle:
+
+Wenn das Repository bereits in einem lokalen Ordner vorhanden ist:
+Standard Routine:
+git pull						Github-Repository in den eigenen lokalen Git-Ordner kopieren.
+git status						Aktuellen Status des lokalen Ornders abfragen.
+git add	Datei1 Datei2 usw				Neue/veränderte Dateien zum Hinzufügen bereitmachen.
+git commit -m "Eine Nachricht" Datei1 Datei2 usw	Dateien dem lokalen Repository hinzufügen.
+git push -u origin master				Lokales Repository ins Github-Repository uploaden.
+
+Weitere:
+git reset						Geaddete Dateien wieder entfernen, wenn man sie doch nicht committen möchte.
+
+Für die Benutzung von branches:
+git branch bliblablub...
+git checkout bliblablub...
+git merge bliblablub...
+
+Wenn noch kein lokales Repository vorhanden ist:
+git init oder so					Neues Repository im aktuellen Ordner erstellen.
+git clone https://linkdesrepositories.com/hamster.git	Vorhandenes Repository in den lokalen Ordner kopieren.
+
+Bei der ersten Benutzung von Git (oder vlt auch bei jedem neuen Repository?):
+git config --global user.name "hamster-name"		Konfiguration des Usernames.
+git config --global user.email "hamster.name@email.de"	Konfiguration der User-Email.
