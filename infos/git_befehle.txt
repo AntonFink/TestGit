@@ -11,6 +11,7 @@ git push -u origin master				Lokales Repository ins Github-Repository uploaden.
 
 Weitere:
 git reset						Geaddete Dateien wieder entfernen, wenn man sie doch nicht committen möchte.
+git commit -a -m "Commit-Message"			Alle geänderten oder gelöschten Dateien (keine neu erstellten) automatisch committen, ohne vorher adden zu müssen.
 
 Für die Benutzung von branches:
 git branch bliblablub...
