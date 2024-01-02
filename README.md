@@ -10,8 +10,10 @@ hamster.anton
 
 Man kann sogar so coole Codeblöcke machen in Markdown:
 
-'''sh
+```sh
 git pups
-'''
+```
+
+```schmand schmeckt allerhand```
 
 So ähnlich ging das.
