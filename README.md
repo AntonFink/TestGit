@@ -7,3 +7,11 @@ Bzw. ab jetzt muss man nicht mehr das Passwort eingeben, sondern einen personal 
 
 Mit freundlichen Grüßen
 hamster.anton
+
+Man kann sogar so coole Codeblöcke machen in Markdown:
+
+'''sh
+git pups
+'''
+
+So ähnlich ging das.
