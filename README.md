@@ -17,3 +17,5 @@ git pups
 ```schmand schmeckt allerhand```
 
 So ähnlich ging das.
+
+So, jetzt nochmal ein Update für den ssh Test auf meinem WIn11 PC.
