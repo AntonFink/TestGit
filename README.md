@@ -19,3 +19,5 @@ git pups
 So ähnlich ging das.
 
 So, jetzt nochmal ein Update für den ssh Test auf meinem WIn11 PC.
+
+Weiteres Update: ssh-key für Laptop mit Ubuntu 24.04 eingerichtet.
